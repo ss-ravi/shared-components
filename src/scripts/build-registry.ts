@@ -22,7 +22,7 @@ import path from "path";
             path: "shared/test.tsx",
             content: fileContent,
             type: "registry:ui",
-            target: "",
+            target: "shared/test.tsx",
           },
         ],
       },
