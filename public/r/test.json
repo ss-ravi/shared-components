@@ -1,0 +1,14 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "test",
+  "type": "registry:ui",
+  "author": "Ravi",
+  "files": [
+    {
+      "path": "shared/test.tsx",
+      "content": "export function Test() {\n  return <div>Test</div>;\n}",
+      "type": "registry:ui",
+      "target": ""
+    }
+  ]
+}
